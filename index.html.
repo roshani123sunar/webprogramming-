@@ -1,1 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Favourites</title>
+</head>
+<body>
 
+    <h1>My Favourites</h1>
+
+    <div class="card">
+        <h2>Favourite Book: Harry Potter and the Philosopher's Stone</h2>
+
+        <img src="https://picsum.photos/300/200?random=1"
+             alt="Harry Potter book cover"
+             width="300"
+             height="200">
+
+        <p>
+            <strong>Harry Potter</strong> is my favourite book because it is full of magic and adventure.
+            I <em>love</em> reading about Hogwarts and all of the amazing characters.
+        </p>
+
+        <a href="https://www.wizardingworld.com/"
+           target="_blank"
+           rel="noopener noreferrer">
+           Visit Wizarding World
+        </a>
+    </div>
+
+    <div class="card">
+        <h2>Favourite Drama: Snowdrop</h2>
+
+        <img src="https://picsum.photos/300/200?random=2"
+             alt="Korean drama"
+             width="300"
+             height="200">
+
+        <p>
+            <strong>Snowdrop</strong> is one of my favourite Korean dramas because it has an emotional story.
+            I <em>enjoy</em> watching romantic and heartbreaking dramas that make me cry.
+        </p>
+
+        <a href="https://en.wikipedia.org/wiki/Snowdrop_(South_Korean_TV_series)"
+           target="_blank"
+           rel="noopener noreferrer">
+           Learn More
+        </a>
+    </div>
+
+    <div class="card">
+        <h2>Favourite Website: GitHub</h2>
+
+        <img src="https://picsum.photos/300/200?random=3"
+             alt="GitHub website"
+             width="300"
+             height="200">
+
+        <p>
+            <strong>GitHub</strong> is my favourite website because it helps me save my coding projects.
+            I <em>use</em> GitHub to practice web programming and submit my university assignments.
+        </p>
+
+        <a href="https://github.com"
+           target="_blank"
+           rel="noopener noreferrer">
+           Visit GitHub
+        </a>
+    </div>
+
+</body>
+</html>
